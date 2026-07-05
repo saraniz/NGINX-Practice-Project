@@ -5,7 +5,7 @@
 ## Overview
 
 <p align="center">
-  <img src="nginx.jpg" width="45%" /><br/>
+  <img src="nginx.jpg" width="95%" /><br/>
 </p>
 
 This project demonstrates a production-style backend architecture using **Nginx as a reverse proxy, load balancer, and caching layer**, distributing traffic across multiple Node.js servers.
