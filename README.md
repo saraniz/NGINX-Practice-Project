@@ -4,6 +4,10 @@
 
 ## Overview
 
+<p align="center">
+  <img src="nginx.jpg" width="45%" /><br/>
+</p>
+
 This project demonstrates a production-style backend architecture using **Nginx as a reverse proxy, load balancer, and caching layer**, distributing traffic across multiple Node.js servers.
 
 It simulates how real-world scalable backend systems handle high traffic efficiently.
